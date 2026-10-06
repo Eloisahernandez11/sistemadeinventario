@@ -116,3 +116,4 @@ y construye la imagen Docker con una prueba de humo.
 
 `main` (estable) ← `develop` (integración) ← `feature/nombre` (trabajo de cada integrante).
 Detalle en [docs/flujo-git.md](docs/flujo-git.md).
+* Módulo de gestión de productos.
