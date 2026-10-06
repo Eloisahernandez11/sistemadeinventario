@@ -1,0 +1,4 @@
+# El sistema solo usa la biblioteca estándar de Python.
+# Estas dependencias son para ejecutar las pruebas.
+pytest>=8.0
+pytest-cov>=5.0
